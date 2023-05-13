@@ -1,2 +1,2 @@
 # Housing-Prices
-A project.
+A project about housing prices. 
